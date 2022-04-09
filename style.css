@@ -1,0 +1,34 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 25px;
+    color: blanchedalmond;
+    margin-top: 0px;
+    width: 100%;
+    font-weight: bold;
+}
+.note{
+ color: darkgreen;
+ font-size: 20px;
+ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.divspeed{
+    float: left;
+    font-size: 20px;
+}
+.divvolume{
+    float: right;
+    font-size: 20px;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
+}
+canvas
+{
+    border: 5px solid  lightcoral;
+    border-radius: 30px;
+    margin-top: 20px;
+}
